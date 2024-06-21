@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.visible": true,
+  "breadcrumbs.enabled": true,
+  "workbench.list.smoothScrolling": false,
+  "editor.formatOnSave": true,
+  "workbench.activityBar.visible": true,
+  "workbench.tree.renderIndentGuides": "onHover"
+}
